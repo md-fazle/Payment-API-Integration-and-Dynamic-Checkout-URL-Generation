@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "VU_Test.Controllers.InfoJasonController",
+    "Method": "GenInfoJason",
+    "RelativePath": "api/InfoJason/GenInfo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VU_Test.Controllers.PaymentController",
+    "Method": "GenerateCheckoutUrl",
+    "RelativePath": "api/Payment/generated",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VU_Test.Controllers.UniqueStringController",
+    "Method": "UniqueString",
+    "RelativePath": "api/UniqueString",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
